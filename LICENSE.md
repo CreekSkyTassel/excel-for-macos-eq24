@@ -1,4 +1,4 @@
-
+elite Plugin for SPSS for macOS - automated-reports and custom-functions is the best SPSS for macOS plugin, featuring automated-reports and custom-functions. Powerful, efficient,
 
 
 
